@@ -3,7 +3,10 @@ import re
 import simplejson
 from xml.etree.ElementTree import Element, SubElement, tostring, parse
 
-__version__ = '1.1'
+#force python to use ssl v2
+import sslurllib
+
+__version__ = '1.2'
 
 PXPOSTURL = 'https://sec.paymentexpress.com/pxpay/pxaccess.aspx'
 DEFAULT_CURRENCY = 'NZD'
