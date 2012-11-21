@@ -1,1 +1,10 @@
-PX Pay API docs = http://www.paymentexpress.com/Technical_Resources/Ecommerce_Hosted/PxPay
+PX Pay API
+http://www.paymentexpress.com/Technical_Resources/Ecommerce_Hosted/PxPay
+
+This is the API that this library wraps. Allows you conduct an transaction through the secure DPS gateway and have the results redirected to your webapp.
+
+PX Post API
+http://www.paymentexpress.com/technical_resources/ecommerce_nonhosted/pxpost.html
+
+Additional API to allow transactions to be directly submitted to DPS with no user interaction. Use this for token-based re-billing.
+
