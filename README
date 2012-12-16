@@ -8,3 +8,5 @@ http://www.paymentexpress.com/technical_resources/ecommerce_nonhosted/pxpost.htm
 
 Additional API to allow transactions to be directly submitted to DPS with no user interaction. Use this for token-based re-billing.
 
+Installation
+see https://conspire.andsomeideas.com/projects/andsome/wiki/Github_via_pip?parent=Wiki
